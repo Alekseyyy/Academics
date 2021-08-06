@@ -1,5 +1,5 @@
 
-## Matter & Interactions, Fourth Edition; Computational Problem Sets
+## Matter & Interactions (Fourth Edition)
 ## Chapter 1, Problem 68
 ## Implemented by: A. S. "Aleksey" Ahmann, hackermaneia@riseup.net
 
