@@ -28,10 +28,11 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 <details>
 <summary>Non-accredited coursework and MOOCs</summary>
 
-|__Course name__|__Course number__|__Course files__|
-|-|-|-|
-|DataQuest|n/a|[here](./coursework/MOOC/dataquest/README.md)|
-|Kaggle|n/a|[here](./coursework/MOOC/kaggle/README.md)|
+|__Program name__|__Course files__|
+|-|-|
+|DataQuest|[here](./moocs/dataquest)|
+|Kaggle|[here](./moocs/kaggle)|
+|ImmersiveLabs|[here](./moocs/ImmersiveLabs)|
 
 </details>
 
@@ -39,7 +40,12 @@ I am an undergraduate student at Southern New Hampshire University majoring in c
 
 Outside of school, I like to "stay sharp" by doing computer science practice with sundry textbook problems, and practice systems/other programming, practice information security and other kinds of computer-based practice. I also like to dabble in other STEM and humanities related fields.
 
+<details>
+<summary>Online competitions</summary>
+
 * [InfoSec CTFs and Competitive Programming](https://github.com/Alekseyyy/ctfs): a github repo detailing my adventures in becoming a computer hacker.
+
+</details>
 
 <details>
 <summary>Textbook Problems</summary>
